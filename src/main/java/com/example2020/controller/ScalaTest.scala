@@ -7,7 +7,8 @@ package com.example2020.controller
  */
 object ScalaTest {
   def main(args: Array[String]): Unit = {
-    println("13755153612")
+    println("1")
+    println("137551536123")
     println("2")
   }
 }
