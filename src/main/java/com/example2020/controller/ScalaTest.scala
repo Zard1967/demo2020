@@ -10,5 +10,6 @@ object ScalaTest {
     println("1")
     println("137551536123")
     println("2")
+println("3")
   }
 }
