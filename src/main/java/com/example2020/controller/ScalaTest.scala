@@ -8,5 +8,6 @@ package com.example2020.controller
 object ScalaTest {
   def main(args: Array[String]): Unit = {
     println("13755153612")
+    println("2")
   }
 }
